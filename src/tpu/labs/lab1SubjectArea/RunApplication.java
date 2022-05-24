@@ -1,6 +1,4 @@
 package tpu.labs.lab1SubjectArea;
-
-
 import java.util.Scanner;
 
 public class RunApplication {
